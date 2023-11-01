@@ -1,0 +1,4 @@
+D:\proga\OOP Lb\OOPlb7_mk\OOPlb7_mk\obj\Debug\net6.0\OOPlb7_mk.GeneratedMSBuildEditorConfig.editorconfig
+D:\proga\OOP Lb\OOPlb7_mk\OOPlb7_mk\obj\Debug\net6.0\OOPlb7_mk.AssemblyInfoInputs.cache
+D:\proga\OOP Lb\OOPlb7_mk\OOPlb7_mk\obj\Debug\net6.0\OOPlb7_mk.AssemblyInfo.cs
+D:\proga\OOP Lb\OOPlb7_mk\OOPlb7_mk\obj\Debug\net6.0\OOPlb7_mk.csproj.CoreCompileInputs.cache
